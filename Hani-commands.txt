@@ -1,0 +1,5 @@
+These are my favorite bash commands
+
+- cat — concatenate and print content of file e.g. cat filename
+- tree.com (git-bash) — list directory content in a tree-like format
+- TAB — to auto complete commands
